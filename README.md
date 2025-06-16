@@ -32,6 +32,10 @@ Feel free to reach out if you want to collaborate or just have a chat about AI, 
 
 📧 [giovanni.iacuzzo@unikorestudent.it](mailto:giovanni.iacuzzo@unikorestudent.it)
 
+<a href="https://www.instagram.com/tuo_username/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@giovanni_iacuzzo_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 ---
 
 <p align="center">
