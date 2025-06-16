@@ -35,5 +35,5 @@ Feel free to reach out if you want to collaborate or just have a chat about AI, 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical" alt="Giovanni's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=radical" alt="Giovanni's GitHub stats"/>
 </p>
