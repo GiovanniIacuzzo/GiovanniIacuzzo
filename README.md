@@ -39,10 +39,6 @@ Feel free to reach out if you'd like to collaborate or chat about AI, tech, or m
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=radical" alt="Giovanni's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniIacuzzo&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center">
