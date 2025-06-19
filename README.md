@@ -1,43 +1,50 @@
 <h1 align="center">
-  Hi, I'm Giovanni Iacuzzo! 
+  Hi, I'm Giovanni Iacuzzo! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <p align="center">
   🎓 MSc Student in Artificial Intelligence & Cybersecurity Engineering<br/>
-  📍 Studying at <a href="https://uke.it/en/homepage-it">University Kore of Enna</a><br/>
+  📍 Studying at <a href="https://uke.it/en/homepage-it" target="_blank">University Kore of Enna</a><br/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔬 I’m passionate about **Artificial Intelligence**, **Cybersecurity**, and **Applied Mathematics**
-- 📊 My main focus is on **numerical optimization** and algorithmic problem solving
-- 🧠 I love exploring the intersection of **intelligent systems** and **real-world engineering**
+- 🔬 Passionate about **Artificial Intelligence**, **Cybersecurity**, and **Applied Mathematics**
+- 📊 Focused on **numerical optimization** and algorithmic problem solving
+- 🧠 Exploring the intersection of **intelligent systems** and **real-world engineering**
 
 ---
 
 ### 🚀 Currently Working On
 
-- Optimization models using **MATLAB**
-- Exploring new trends in **machine learning** and **secure computation**
-- Collaborating on personal and academic AI-related projects
+- 🧮 Optimization models with **MATLAB**
+- 🤖 Trends in **Machine Learning** and **Secure Computation**
+- 📚 Collaborating on AI-related academic & personal projects
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate or just have a chat about AI, tech or math!
+Feel free to reach out if you'd like to collaborate or chat about AI, tech, or math!
 
-📧 [giovanni.iacuzzo@unikorestudent.it](mailto:giovanni.iacuzzo@unikorestudent.it)
-
-<a href="https://www.instagram.com/giovanni_iacuzzo_02/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@giovanni_iacuzzo_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-giovanni.iacuzzo@unikorestudent.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.iacuzzo@unikorestudent.it)
+[![Instagram](https://img.shields.io/badge/Instagram-@giovanni__iacuzzo__02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_iacuzzo_02/)
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=radical" alt="Giovanni's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniIacuzzo&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GiovanniIacuzzo.GiovanniIacuzzo" alt="Visitor Badge"/>
 </p>
