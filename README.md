@@ -49,10 +49,11 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Machine_Learning-90%-orange?style=for-the-badge&logo=machinelearning&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Deep_Learning-85%-red?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Cybersecurity-80%-blue?style=for-the-badge&logo=hackthebox&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Mathematics-95%-yellow?style=for-the-badge&logo=wolfram&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jupyter-90%-orange?style=for-the-badge&logo=jupyter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TensorFlow-85%-red?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyTorch-85%-pink?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cybersecurity-80%-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Mathematics-95%-yellow?style=for-the-badge" /> 
 </p>
 
 ---
@@ -61,15 +62,15 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 <p align="center">
   <a href="https://github.com/GiovanniIacuzzo/Project1" target="_blank">
-    <img src="https://via.placeholder.com/200x120.png?text=AI+Optimization" alt="Project 1" />
+    <img src="https://img.shields.io/badge/Project1-AI_Optimization-blue?style=for-the-badge" alt="Project 1" />
   </a>
   &nbsp;
   <a href="https://github.com/GiovanniIacuzzo/Project2" target="_blank">
-    <img src="https://via.placeholder.com/200x120.png?text=Secure+Computation" alt="Project 2" />
+    <img src="https://img.shields.io/badge/Project2-Secure_Computation-red?style=for-the-badge" alt="Project 2" />
   </a>
   &nbsp;
   <a href="https://github.com/GiovanniIacuzzo/Project3" target="_blank">
-    <img src="https://via.placeholder.com/200x120.png?text=Mathematical+Models" alt="Project 3" />
+    <img src="https://img.shields.io/badge/Project3-Mathematical_Models-orange?style=for-the-badge" alt="Project 3" />
   </a>
 </p>
 
@@ -79,11 +80,13 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GiovanniIacuzzo&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Giovanni's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniIacuzzo&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 
 ---
 
