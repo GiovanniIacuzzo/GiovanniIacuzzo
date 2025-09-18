@@ -68,6 +68,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
   <em>Click any icon to reach me! Let's talk AI, tech, or math 🚀</em>
 </p>
 
+---
 
 ### 👁‍🗨 Visitors
 
