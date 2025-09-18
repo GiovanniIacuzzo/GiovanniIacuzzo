@@ -48,12 +48,12 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 ### 🛠 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jupyter-90%-orange?style=for-the-badge&logo=jupyter&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/TensorFlow-85%-red?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PyTorch-85%-pink?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Cybersecurity-80%-blue?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Mathematics-95%-yellow?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-90%-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-85%-red?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-85%-pink?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-80%-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mathematics-95%-yellow?style=for-the-badge" />
 </p>
 
 ---
