@@ -67,16 +67,6 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/GiovanniIacuzzo?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/repo-size/GiovanniIacuzzo/GiovanniIacuzzo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/GiovanniIacuzzo/GiovanniIacuzzo?style=for-the-badge" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
