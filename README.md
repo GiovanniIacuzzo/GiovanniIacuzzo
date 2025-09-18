@@ -44,14 +44,30 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-giovanni.iacuzzo@unikorestudent.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.iacuzzo@unikorestudent.it) 
-  [![Instagram](https://img.shields.io/badge/Instagram-@giovanni__iacuzzo__02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_iacuzzo_02/)
+  <a href="mailto:giovanni.iacuzzo@unikorestudent.it" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Giovanni%20Iacuzzo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/giovanni_iacuzzo_02/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@giovanni__iacuzzo__02-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/giovanni-iacuzzo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Iacuzzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GiovanniIacuzzo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Giovanni%20Iacuzzo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
+<p align="center">
+  <em>Click any icon to reach me! Let's talk AI, tech, or math 🚀</em>
+</p>
+
 
 ### 👁‍🗨 Visitors
 
