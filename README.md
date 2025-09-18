@@ -75,18 +75,6 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
   <img src="https://img.shields.io/github/stars/GiovanniIacuzzo/GiovanniIacuzzo?style=for-the-badge" />
 </p>
 
-
----
-
-### 🗺 My Journey
-
-<p align="left">
-  2022 ➜ Started MSc in AI & Cybersecurity <br/>
-  2023 ➜ Focus on Optimization & Secure Computation <br/>
-  2024 ➜ AI Projects & Research <br/>
-  2025 ➜ Expand into Industry-level Security & ML
-</p>
-
 ---
 
 ### 📫 Let's Connect
