@@ -48,7 +48,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 ### 🚀 Current Projects
 
 <p align="center">
-  <a href="[https://github.com/GiovanniIacuzzo/Project1](https://github.com/GiovanniIacuzzo/water-4.0)" target="_blank">
+  <a href="https://github.com/GiovanniIacuzzo/water-4.0" target="_blank">
     <img src="https://img.shields.io/badge/Project1-AI_Optimization-blue?style=for-the-badge" alt="Project 1" />
   </a>
   &nbsp;
@@ -56,7 +56,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
     <img src="https://img.shields.io/badge/Project2-Secure_Computation-red?style=for-the-badge" alt="Project 2" />
   </a>
   &nbsp;
-  <a href="[https://github.com/GiovanniIacuzzo/Project3](https://github.com/GiovanniIacuzzo/Optimization-Image-Registration)" target="_blank">
+  <a href="https://github.com/GiovanniIacuzzo/Optimization-Image-Registration" target="_blank">
     <img src="https://img.shields.io/badge/Project3-Mathematical_Models-orange?style=for-the-badge" alt="Project 3" />
   </a>
 </p>
