@@ -22,6 +22,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 ### 💡 Tech Stack & Tools
 
 <p align="center">
+  <em>Here are some of the key technologies, languages, and tools I use in my projects:</em><br/><br/>
   <!-- Linguaggi e librerie AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter Notebook" /> 
@@ -30,13 +31,14 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
   <!-- Cybersecurity / Network -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
-  <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+
 
   <!-- Matematica / Scienza Computazionale -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-Scientific-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" title="LaTeX" />matematica/scienza -->
 </p>
 
 <p align="center">
