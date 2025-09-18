@@ -38,7 +38,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
   <!-- Matematica / Scienza Computazionale -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" title="LaTeX" />matematica/scienza -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" title="LaTeX" />
 </p>
 
 <p align="center">
