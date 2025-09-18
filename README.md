@@ -45,11 +45,56 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
+### 🛠 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Machine_Learning-90%-orange?style=for-the-badge&logo=machinelearning&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Deep_Learning-85%-red?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cybersecurity-80%-blue?style=for-the-badge&logo=hackthebox&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Mathematics-95%-yellow?style=for-the-badge&logo=wolfram&logoColor=white" /> 
+</p>
+
+---
+
 ### 🚀 Current Projects
 
-- 🧮 Optimization models with **MATLAB**  
-- 🤖 Exploring **Machine Learning** & **Secure Computation**  
-- 📚 AI-related collaborative projects  
+<p align="center">
+  <a href="https://github.com/GiovanniIacuzzo/Project1" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=AI+Optimization" alt="Project 1" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GiovanniIacuzzo/Project2" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Secure+Computation" alt="Project 2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GiovanniIacuzzo/Project3" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Mathematical+Models" alt="Project 3" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Click on a project to explore it on GitHub!</em>
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GiovanniIacuzzo&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🗺 My Journey
+
+<p align="center">
+  2022 ➜ Started MSc in AI & Cybersecurity <br/>
+  2023 ➜ Focus on Optimization & Secure Computation <br/>
+  2024 ➜ AI Projects & Research <br/>
+  2025 ➜ Expand into Industry-level Security & ML
+</p>
 
 ---
 
@@ -83,4 +128,13 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GiovanniIacuzzo.GiovanniIacuzzo" alt="Visitor Badge"/>
+</p>
+
+---
+
+### 🎬 Fun / Animations
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="AI Gif"/>
 </p>
