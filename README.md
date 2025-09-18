@@ -89,7 +89,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ### 🗺 My Journey
 
-<p align="center">
+<p align="left">
   2022 ➜ Started MSc in AI & Cybersecurity <br/>
   2023 ➜ Focus on Optimization & Secure Computation <br/>
   2024 ➜ AI Projects & Research <br/>
@@ -128,13 +128,4 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GiovanniIacuzzo.GiovanniIacuzzo" alt="Visitor Badge"/>
-</p>
-
----
-
-### 🎬 Fun / Animations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Coding Gif"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="AI Gif"/>
 </p>
