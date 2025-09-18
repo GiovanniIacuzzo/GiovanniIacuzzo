@@ -5,39 +5,42 @@
 
 <p align="center">
   🎓 MSc Student in <b>Artificial Intelligence & Cybersecurity Engineering</b><br/>
-  📍 Studying at <a href="https://uke.it/en/homepage-it" target="_blank">University Kore of Enna</a>
+  📍 University Kore of Enna
 </p>
 
 ---
 
-### 👋 About Me
-
-I'm a passionate student exploring the boundaries of **AI**, **Cybersecurity**, and **Applied Mathematics**.  
-I love turning complex problems into elegant solutions and experimenting with new technologies.  
+### 👨‍💻 About Me
+I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Mathematics**, always pushing boundaries to turn complex problems into elegant solutions.  
 
 - 🔬 AI, Cybersecurity & Applied Math enthusiast  
-- 📊 Focused on **numerical optimization** & algorithmic problem solving  
-- 🧠 Exploring intelligent systems in real-world engineering  
+- 📊 Algorithmic problem solving & numerical optimization  
+- 🧠 Designing intelligent systems for real-world engineering  
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💡 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-F0DB4F?style=for-the-badge&logo=mathworks&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" title="MATLAB" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" /> 
+</p>
+
+<p align="center">
+  <em>Click the icons to learn more about my skills!</em>
 </p>
 
 ---
 
 ### 🚀 Current Projects
 
-- 🧮 **Optimization models** with MATLAB  
-- 🤖 Research in **Machine Learning** & **Secure Computation**  
-- 📚 Collaborative AI projects (academic & personal)  
+- 🧮 Optimization models with **MATLAB**  
+- 🤖 Exploring **Machine Learning** & **Secure Computation**  
+- 📚 AI-related collaborative projects  
 
 ---
 
@@ -46,15 +49,6 @@ I love turning complex problems into elegant solutions and experimenting with ne
 <p align="center">
   [![Email](https://img.shields.io/badge/Email-giovanni.iacuzzo@unikorestudent.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.iacuzzo@unikorestudent.it) 
   [![Instagram](https://img.shields.io/badge/Instagram-@giovanni__iacuzzo__02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_iacuzzo_02/)
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniIacuzzo&layout=compact&theme=radical" />
 </p>
 
 ---
