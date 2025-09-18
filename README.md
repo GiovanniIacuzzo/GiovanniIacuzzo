@@ -30,13 +30,13 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
   <!-- Cybersecurity / Network -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="50" title="Kali Linux" />
+  <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
 
   <!-- Matematica / Scienza Computazionale -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" title="SciPy" />
+  <img src="https://img.shields.io/badge/SciPy-Scientific-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" width="100" />
 </p>
 
 <p align="center">
