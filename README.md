@@ -70,6 +70,17 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniIacuzzo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Giovanni's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniIacuzzo&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniIacuzzo&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
