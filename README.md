@@ -50,6 +50,7 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 ### 🚀 Current Projects
 
 <p align="center">
+  <em>Explore some of my ongoing projects that showcase my skills in AI, Cybersecurity, and Applied Mathematics.</em><br/><br/>
   <a href="https://github.com/GiovanniIacuzzo/water-4.0" target="_blank">
     <img src="https://img.shields.io/badge/Project1-AI_Optimization-blue?style=for-the-badge" alt="Project 1" />
   </a>
