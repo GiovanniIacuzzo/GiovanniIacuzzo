@@ -47,6 +47,35 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
+### 🌟 My Profile in Detail
+
+<p align="center">
+  <em>Get to know me beyond the code!</em>
+</p>
+
+<p align="center">
+  <!-- Career Goals -->
+  <img src="https://img.shields.io/badge/🎯-Career%20Goals-blue?style=for-the-badge&logo=appveyor" alt="Career Goals" /> 
+  <!-- Personal Interests -->
+  <img src="https://img.shields.io/badge/💬-Interests-purple?style=for-the-badge&logo=read-the-docs" alt="Interests" /> 
+  <!-- Soft Skills -->
+  <img src="https://img.shields.io/badge/🛠-Soft%20Skills-orange?style=for-the-badge&logo=skills" alt="Soft Skills" /> 
+  <!-- Learning Focus -->
+  <img src="https://img.shields.io/badge/🌱-Learning%20Focus-green?style=for-the-badge&logo=education" alt="Learning Focus" /> 
+  <!-- Fun Fact -->
+  <img src="https://img.shields.io/badge/💡-Fun%20Fact-red?style=for-the-badge&logo=idea" alt="Fun Fact" />
+</p>
+
+<p align="center">
+  <strong>Career Goals:</strong> Developing innovative AI & cybersecurity solutions for real-world impact.<br/>
+  <strong>Interests:</strong> Emerging tech, algorithmic challenges, data science & open-source contributions.<br/>
+  <strong>Soft Skills:</strong> Problem-solving, teamwork, analytical thinking, communication.<br/>
+  <strong>Learning Focus:</strong> Reinforcement learning, secure AI systems, numerical optimization.<br/>
+  <strong>Fun Fact:</strong> I love turning complex math into elegant, creative code solutions!
+</p>
+
+---
+
 ### 🚀 Current Projects
 
 <p align="center">
