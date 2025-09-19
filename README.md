@@ -47,67 +47,37 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 
 ---
 
-### 🌟 My Profile in Detail
+### 🌟 About Me – Detailed Profile
 
 <p align="center">
-  <em>Beyond the code: who I am & what drives me 🚀</em>
+  <em>Who I am, what I do, and what drives me forward 🚀</em>
 </p>
 
 <p align="center">
   <!-- Career Goals -->
-  <a href="#career-goals">
-    <img src="https://img.shields.io/badge/🎯-Career%20Goals-4c6ef5?style=for-the-badge&logo=appveyor&logoColor=white" alt="Career Goals" />
-  </a>
+  <img src="https://img.shields.io/badge/🎯-Career%20Goals-4f46e5?style=for-the-badge&logo=appveyor&logoColor=white" alt="Career Goals" /> 
   &nbsp;
   <!-- Personal Interests -->
-  <a href="#interests">
-    <img src="https://img.shields.io/badge/💬-Interests-fc5c7d?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interests" />
-  </a>
+  <img src="https://img.shields.io/badge/💬-Interests-6366f1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interests" /> 
   &nbsp;
   <!-- Soft Skills -->
-  <a href="#soft-skills">
-    <img src="https://img.shields.io/badge/🛠-Soft%20Skills-ffb74d?style=for-the-badge&logo=skills&logoColor=white" alt="Soft Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/🛠-Soft%20Skills-2563eb?style=for-the-badge&logo=git&logoColor=white" alt="Soft Skills" /> 
   &nbsp;
   <!-- Learning Focus -->
-  <a href="#learning-focus">
-    <img src="https://img.shields.io/badge/🌱-Learning%20Focus-2ed573?style=for-the-badge&logo=education&logoColor=white" alt="Learning Focus" />
-  </a>
+  <img src="https://img.shields.io/badge/🌱-Learning%20Focus-22c55e?style=for-the-badge&logo=education&logoColor=white" alt="Learning Focus" /> 
   &nbsp;
   <!-- Fun Fact -->
-  <a href="#fun-fact">
-    <img src="https://img.shields.io/badge/💡-Fun%20Fact-ff6b81?style=for-the-badge&logo=idea&logoColor=white" alt="Fun Fact" />
-  </a>
+  <img src="https://img.shields.io/badge/💡-Fun%20Fact-14b8a6?style=for-the-badge&logo=idea&logoColor=white" alt="Fun Fact" />
 </p>
 
-<p align="center">
-  <a name="career-goals"></a>
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="50" alt="rocket" />
-  <strong>Career Goals:</strong> Crafting cutting-edge AI & cybersecurity solutions that make real-world impact. 🚀
-</p>
+---
 
-<p align="center">
-  <a name="interests"></a>
-  <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" alt="books" />
-  <strong>Interests:</strong> Exploring emerging tech, solving algorithmic puzzles, contributing to open-source, data-driven insights.
-</p>
-
-<p align="center">
-  <a name="soft-skills"></a>
-  <img src="https://media.giphy.com/media/xT9Igl1ZelspQv0ZsA/giphy.gif" width="50" alt="teamwork" />
-  <strong>Soft Skills:</strong> Analytical thinking, problem-solving, teamwork & communication.
-</p>
-
-<p align="center">
-  <a name="learning-focus"></a>
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="50" alt="learning" />
-  <strong>Learning Focus:</strong> Reinforcement learning, secure AI systems, numerical optimization.
-</p>
-
-<p align="center">
-  <a name="fun-fact"></a>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" alt="fun" />
-  <strong>Fun Fact:</strong> Turning complex math into elegant, creative code solutions is my happy place! 😎
+<p align="center" style="max-width: 800px; line-height: 1.6;">
+  <strong>🎯 Career Goals:</strong> Build innovative AI and cybersecurity solutions that have measurable impact in real-world applications.<br/><br/>
+  <strong>💬 Interests:</strong> Exploring emerging technologies, algorithmic problem solving, open-source contributions, and scientific computing.<br/><br/>
+  <strong>🛠 Soft Skills:</strong> Analytical thinking, strategic problem solving, teamwork, and effective communication.<br/><br/>
+  <strong>🌱 Learning Focus:</strong> Reinforcement learning, secure AI systems, numerical optimization, and applied mathematics.<br/><br/>
+  <strong>💡 Fun Fact:</strong> I love transforming complex mathematical concepts into elegant, efficient, and creative solutions in code.
 </p>
 
 
