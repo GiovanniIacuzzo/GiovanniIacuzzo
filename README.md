@@ -11,11 +11,26 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Mathematics**, always pushing boundaries to turn complex problems into elegant solutions.  
 
-- 🔬 AI, Cybersecurity & Applied Math enthusiast  
-- 📊 Algorithmic problem solving & numerical optimization  
-- 🧠 Designing intelligent systems for real-world engineering  
+<p align="center">
+  <em>Passionate about turning complex challenges into elegant solutions 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔬-AI%20%26%20Cybersecurity-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="AI & Cybersecurity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📊-Algorithmic%20Problem%20Solving-orange?style=for-the-badge&logo=algorithmia&logoColor=white" alt="Algorithms" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠-Intelligent%20Systems-green?style=for-the-badge&logo=artstation&logoColor=white" alt="Intelligent Systems" />
+</p>
+
+<p align="center" style="max-width: 800px; line-height: 1.6;">
+  I'm a passionate student exploring <strong>Artificial Intelligence</strong>, <strong>Cybersecurity</strong>, and <strong>Applied Mathematics</strong>, always pushing boundaries to turn complex problems into elegant, real-world solutions.<br/><br/>
+  
+  <strong>🔬 AI & Cybersecurity Enthusiast:</strong> Building intelligent and secure systems.<br/>
+  <strong>📊 Algorithmic Problem Solving & Optimization:</strong> Tackling challenging problems with efficient solutions.<br/>
+  <strong>🧠 Designing Intelligent Systems:</strong> Applying math and AI to engineering and real-world applications.
+</p>
 
 ---
 
