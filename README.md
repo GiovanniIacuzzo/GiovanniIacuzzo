@@ -50,29 +50,66 @@ I'm a passionate student exploring **AI**, **Cybersecurity**, and **Applied Math
 ### 🌟 My Profile in Detail
 
 <p align="center">
-  <em>Get to know me beyond the code!</em>
+  <em>Beyond the code: who I am & what drives me 🚀</em>
 </p>
 
 <p align="center">
   <!-- Career Goals -->
-  <img src="https://img.shields.io/badge/🎯-Career%20Goals-blue?style=for-the-badge&logo=appveyor" alt="Career Goals" /> 
+  <a href="#career-goals">
+    <img src="https://img.shields.io/badge/🎯-Career%20Goals-4c6ef5?style=for-the-badge&logo=appveyor&logoColor=white" alt="Career Goals" />
+  </a>
+  &nbsp;
   <!-- Personal Interests -->
-  <img src="https://img.shields.io/badge/💬-Interests-purple?style=for-the-badge&logo=read-the-docs" alt="Interests" /> 
+  <a href="#interests">
+    <img src="https://img.shields.io/badge/💬-Interests-fc5c7d?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interests" />
+  </a>
+  &nbsp;
   <!-- Soft Skills -->
-  <img src="https://img.shields.io/badge/🛠-Soft%20Skills-orange?style=for-the-badge&logo=skills" alt="Soft Skills" /> 
+  <a href="#soft-skills">
+    <img src="https://img.shields.io/badge/🛠-Soft%20Skills-ffb74d?style=for-the-badge&logo=skills&logoColor=white" alt="Soft Skills" />
+  </a>
+  &nbsp;
   <!-- Learning Focus -->
-  <img src="https://img.shields.io/badge/🌱-Learning%20Focus-green?style=for-the-badge&logo=education" alt="Learning Focus" /> 
+  <a href="#learning-focus">
+    <img src="https://img.shields.io/badge/🌱-Learning%20Focus-2ed573?style=for-the-badge&logo=education&logoColor=white" alt="Learning Focus" />
+  </a>
+  &nbsp;
   <!-- Fun Fact -->
-  <img src="https://img.shields.io/badge/💡-Fun%20Fact-red?style=for-the-badge&logo=idea" alt="Fun Fact" />
+  <a href="#fun-fact">
+    <img src="https://img.shields.io/badge/💡-Fun%20Fact-ff6b81?style=for-the-badge&logo=idea&logoColor=white" alt="Fun Fact" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Career Goals:</strong> Developing innovative AI & cybersecurity solutions for real-world impact.<br/>
-  <strong>Interests:</strong> Emerging tech, algorithmic challenges, data science & open-source contributions.<br/>
-  <strong>Soft Skills:</strong> Problem-solving, teamwork, analytical thinking, communication.<br/>
-  <strong>Learning Focus:</strong> Reinforcement learning, secure AI systems, numerical optimization.<br/>
-  <strong>Fun Fact:</strong> I love turning complex math into elegant, creative code solutions!
+  <a name="career-goals"></a>
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="50" alt="rocket" />
+  <strong>Career Goals:</strong> Crafting cutting-edge AI & cybersecurity solutions that make real-world impact. 🚀
 </p>
+
+<p align="center">
+  <a name="interests"></a>
+  <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="50" alt="books" />
+  <strong>Interests:</strong> Exploring emerging tech, solving algorithmic puzzles, contributing to open-source, data-driven insights.
+</p>
+
+<p align="center">
+  <a name="soft-skills"></a>
+  <img src="https://media.giphy.com/media/xT9Igl1ZelspQv0ZsA/giphy.gif" width="50" alt="teamwork" />
+  <strong>Soft Skills:</strong> Analytical thinking, problem-solving, teamwork & communication.
+</p>
+
+<p align="center">
+  <a name="learning-focus"></a>
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="50" alt="learning" />
+  <strong>Learning Focus:</strong> Reinforcement learning, secure AI systems, numerical optimization.
+</p>
+
+<p align="center">
+  <a name="fun-fact"></a>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" alt="fun" />
+  <strong>Fun Fact:</strong> Turning complex math into elegant, creative code solutions is my happy place! 😎
+</p>
+
 
 ---
 
