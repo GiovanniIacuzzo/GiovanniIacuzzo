@@ -1,4 +1,8 @@
-<p align="center">
+<p align="center" 
+   style="
+     mask-image: linear-gradient(to bottom, black 70%, rgba(0,0,0,0.7) 85%, transparent 100%);
+     -webkit-mask-image: linear-gradient(to bottom, black 70%, rgba(0,0,0,0.7) 85%, transparent 100%);
+   ">
   <img src="./assets/ai-banner.svg" width="100%" alt="Neural Network Animation"/>
 </p>
 
@@ -26,10 +30,21 @@
 
 ## 🧠 About Me
 
-<p align="center" style="max-width:850px; line-height:1.8;">
-I am a passionate researcher exploring the intersection between <b>Artificial Intelligence</b>, <b>Mathematical Optimization</b>, and <b>Cybersecurity</b>.  
-My mission is to transform elegant mathematical ideas into intelligent, efficient, and secure systems that solve real-world problems.
+<div align="center" style="max-width:850px; line-height:1.8; color:#dcdcdc;">
+
+<p style="font-size:1.05em;">
+I am a passionate researcher exploring the intersection of  
+<b style="color:#8AB6D6;">Artificial Intelligence</b>,  
+<b style="color:#8AB6D6;">Mathematical Optimization</b>, and  
+<b style="color:#8AB6D6;">Cybersecurity</b>.
 </p>
+
+<p style="margin-top:10px;">
+My mission is to transform elegant mathematical ideas into intelligent, efficient,  
+and secure systems that solve real-world problems.
+</p>
+
+<hr style="width:55%; border:0; border-top:1px solid rgba(138,182,214,0.4); margin:25px auto;"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧮-Mathematical%20Modeling-9333ea?style=for-the-badge" />
@@ -37,16 +52,24 @@ My mission is to transform elegant mathematical ideas into intelligent, efficien
   <img src="https://img.shields.io/badge/🔐-Cybersecurity-2563eb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚙️-Numerical%20Optimization-f59e0b?style=for-the-badge" />
 </p>
+</div>
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,numpy,pandas,linux,docker,git,latex&perline=5" />
 </p>
 
-<p align="center"><em>Mathematics + Code = Creativity at Scale</em></p>
+<p style="margin-top:10px; font-style:italic; color:#b0b0b0;">
+<em>Mathematics + Code = Creativity at Scale</em>
+</p>
+
+</div>
+
 
 ---
 
@@ -57,9 +80,9 @@ My mission is to transform elegant mathematical ideas into intelligent, efficien
 
 <h3>∞ <em>“Between equations and intelligence, there lies optimization.”</em> ∞</h3>
 
-```math
+$$
 \min_{x \in \mathbb{R}^n} \; f(x) = \| A x - b \|_2^2 + \lambda \|x\|_1
-```
+$$
 
 </div>
 
