@@ -70,7 +70,6 @@ and secure systems that solve real-world problems.
 
 </div>
 
-
 ---
 
 ## 🧮 Mathematical Mindset
@@ -108,7 +107,6 @@ $$
 <p align="center">
   <a href="https://github.com/GiovanniIacuzzo?tab=repositories"><b>🔎 Explore all my repositories</b></a>
 </p>
-
 
 ---
 
