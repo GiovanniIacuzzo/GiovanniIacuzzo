@@ -75,16 +75,13 @@ and secure systems that solve real-world problems.
 
 ## 🧮 Mathematical Mindset
 
-<div align="center" style="background: linear-gradient(135deg, #0d0d0d, #1a1a1a, #202040); border-radius: 15px; padding: 25px; border: 2px solid #4B9CD3; box-shadow: 0px 0px 30px rgba(75,156,211,0.4); color: #e0e0e0;">
-
-
-<h3>∞ <em>“Between equations and intelligence, there lies optimization.”</em> ∞</h3>
-
-$$
-\min_{x \in \mathbb{R}^n} \; f(x) = \| A x - b \|_2^2 + \lambda \|x\|_1
-$$
-
+<div align="center">
+  <h3>∞ <em>“Between equations and intelligence, there lies optimization.”</em> ∞</h3>
 </div>
+
+$$
+\min_{x \in \mathbb{R}^n}\; f(x) \;=\; \|Ax - b\|_2^2 \;+\; \lambda \|x\|_1
+$$
 
 ---
 
