@@ -90,14 +90,14 @@ $$
   <a href="https://github.com/GiovanniIacuzzo/water-4.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=water-4.0&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/GiovanniIacuzzo/Optimization-Image-Registration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Optimization-Image-Registration&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GiovanniIacuzzo Classification-instruments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Classification-instruments&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/GiovanniIacuzzo Classification-instruments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Classification-instruments&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GiovanniIacuzzo/Optimization-Image-Registration">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Optimization-Image-Registration&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/GiovanniIacuzzo/Esame-Machine-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Esame-Machine-Learning&theme=tokyonight&hide_border=true" />
