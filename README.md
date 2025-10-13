@@ -96,8 +96,8 @@ $$
 </p>
 
 <p align="center">
-  <a href="https://github.com/GiovanniIacuzzo/Optimization-Image-Registration">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Optimization-Image-Registration&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GiovanniIacuzzo/GitScore-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=GitScore-Dashboard&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/GiovanniIacuzzo/Esame-Machine-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanniIacuzzo&repo=Esame-Machine-Learning&theme=tokyonight&hide_border=true" />
