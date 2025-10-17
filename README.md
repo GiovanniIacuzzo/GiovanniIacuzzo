@@ -60,12 +60,23 @@ and secure systems that solve real-world problems.
 
 <div align="center">
 
+<!-- Machine Learning & Data Science -->
 <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,numpy,pandas,scipy,sklearn,linux,docker,git,github,latex,markdown,vscode,bash,anaconda,ubuntu,sqlite,opencv&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,sklearn&perline=5" alt="ML Stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy,opencv,sqlite&perline=5" alt="Data Tools" />
 </p>
 
-<p style="margin-top:10px; font-style:italic; color:#b0b0b0;">
-<em>Mathematics + Code = Creativity at Scale</em>
+<!-- Development & DevOps -->
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github&perline=5" alt="DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,bash,anaconda,latex,markdown&perline=5" alt="Dev Tools" />
+</p>
+
+<!-- Motto -->
+<p>
+  <em><strong>Mathematics + Code = Creativity at Scale</strong></em>
 </p>
 
 </div>
