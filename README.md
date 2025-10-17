@@ -47,10 +47,10 @@ and secure systems that solve real-world problems.
 <hr style="width:55%; border:0; border-top:1px solid rgba(138,182,214,0.4); margin:25px auto;"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧮-Mathematical%20Modeling-9333ea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-Machine%20Learning-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔐-Cybersecurity-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚙️-Numerical%20Optimization-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧮-Mathematical%20Modeling-2b3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-Machine%20Learning-1e3a8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐-Cybersecurity-1e3a8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️-Numerical%20Optimization-2b3440?style=for-the-badge" />
 </p>
 </div>
 
