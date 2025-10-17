@@ -58,26 +58,30 @@ and secure systems that solve real-world problems.
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div align="center" style="position: relative; width: 400px; height: 400px; margin: auto;">
 
-<!-- Machine Learning & Data Science -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,sklearn&perline=5" alt="ML Stack" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy,opencv,sqlite&perline=5" alt="Data Tools" />
-</p>
+  <!-- Motto al centro -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 220px;">
+    <em>Mathematics + Code = Creativity at Scale</em>
+  </div>
 
-<!-- Development & DevOps -->
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github&perline=5" alt="DevOps" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,bash,anaconda,latex,markdown&perline=5" alt="Dev Tools" />
-</p>
-
-<!-- Motto -->
-<p>
-  <em><strong>Mathematics + Code = Creativity at Scale</strong></em>
-</p>
+  <!-- Icone disposte a cerchio -->
+  <img src="https://skillicons.dev/icons?i=python" style="position: absolute; top: 0%; left: 50%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=pytorch" style="position: absolute; top: 12%; left: 85%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" style="position: absolute; top: 38%; left: 98%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=matlab" style="position: absolute; top: 62%; left: 98%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=numpy" style="position: absolute; top: 88%; left: 85%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=pandas" style="position: absolute; top: 100%; left: 50%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=scipy" style="position: absolute; top: 88%; left: 15%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=sklearn" style="position: absolute; top: 62%; left: 2%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=opencv" style="position: absolute; top: 38%; left: 2%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=sqlite" style="position: absolute; top: 12%; left: 15%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=linux" style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=docker" style="position: absolute; top: 35%; left: 75%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=git" style="position: absolute; top: 65%; left: 75%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=github" style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="position: absolute; top: 65%; left: 25%; transform: translate(-50%, -50%);" />
+  <img src="https://skillicons.dev/icons?i=bash" style="position: absolute; top: 35%; left: 25%; transform: translate(-50%, -50%);" />
 
 </div>
 
