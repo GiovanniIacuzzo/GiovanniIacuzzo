@@ -60,41 +60,15 @@ and secure systems that solve real-world problems.
 
 <div align="center">
 
-<!-- Prima riga -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,sklearn" alt="row1" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,numpy,pandas,linux,docker,git,latex&perline=5" />
 </p>
 
-<!-- Piccolo “spostamento a destra” -->
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=numpy" alt="row2" /></p>
-
-<!-- Seconda riga -->
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,scipy,opencv,sqlite,linux" alt="row3" />
-</p>
-
-<!-- Piccolo “spostamento a sinistra” -->
-<p>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" alt="row4" /></p>
-
-<!-- Terza riga -->
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,anaconda" alt="row5" />
-</p>
-
-<!-- Piccolo “spostamento a destra” -->
-<p>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=latex" alt="row6" /></p>
-
-<!-- Quarta riga -->
-<p>
-  <img src="https://skillicons.dev/icons?i=markdown" alt="row7" />
-</p>
-
-<p>
-  <em>Mathematics + Code = Creativity at Scale</em>
+<p style="margin-top:10px; font-style:italic; color:#b0b0b0;">
+<em>Mathematics + Code = Creativity at Scale</em>
 </p>
 
 </div>
-
 
 ---
 
