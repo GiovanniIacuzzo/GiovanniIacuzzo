@@ -61,7 +61,7 @@ and secure systems that solve real-world problems.
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,numpy,pandas,linux,docker,git,latex&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,numpy,pandas,scipy,sklearn,linux,docker,git,github,latex,markdown,vscode,bash,anaconda,ubuntu,sqlite,opencv&perline=5" alt="Tech Stack" />
 </p>
 
 <p style="margin-top:10px; font-style:italic; color:#b0b0b0;">
