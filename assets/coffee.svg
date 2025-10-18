@@ -1,0 +1,35 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="200" fill="#1e1e1e" rx="15"/>
+
+  <!-- Coffee cup -->
+  <g transform="translate(400,60)">
+    <ellipse cx="50" cy="90" rx="45" ry="10" fill="#3b3b3b"/>
+    <rect x="5" y="40" width="90" height="50" rx="10" fill="#f2f2f2" stroke="#d9d9d9" stroke-width="2"/>
+    <ellipse cx="50" cy="40" rx="45" ry="10" fill="#c0c0c0"/>
+    <ellipse cx="50" cy="40" rx="40" ry="8" fill="#6f4e37"/>
+    <!-- Handle -->
+    <path d="M95 55 q25 15 0 30" fill="none" stroke="#f2f2f2" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Steam animation -->
+  <g transform="translate(445,30)" stroke="#cccccc" stroke-width="2" stroke-linecap="round">
+    <path d="M0 40 q5 -20 0 -40" fill="none">
+      <animateTransform attributeName="transform" type="translate" from="0,20" to="0,-20" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path d="M10 40 q5 -20 0 -40" fill="none">
+      <animateTransform attributeName="transform" type="translate" from="0,25" to="0,-25" dur="2.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" />
+    </path>
+    <path d="M20 40 q5 -20 0 -40" fill="none">
+      <animateTransform attributeName="transform" type="translate" from="0,15" to="0,-25" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Text -->
+  <text x="450" y="185" fill="#e0e0e0" font-family="monospace" font-size="22" text-anchor="middle">
+    do you want a coffee?
+  </text>
+</svg>

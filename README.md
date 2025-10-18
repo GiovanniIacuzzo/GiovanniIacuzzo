@@ -47,11 +47,12 @@ and secure systems that solve real-world problems.
 <hr style="width:55%; border:0; border-top:1px solid rgba(138,182,214,0.4); margin:25px auto;"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧮-Mathematical%20Modeling-2b3440?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-Machine%20Learning-1e3a8a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔐-Cybersecurity-1e3a8a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚙️-Numerical%20Optimization-2b3440?style=for-the-badge" />
+  <img src="assets/mathematical model.png" alt="Mathematical Modeling" width="160" height="160" />
+  <img src="assets/machine learning figure.png" alt="Machine Learning" width="160" height="160" />
+  <img src="assets/CyberSecurity figure.png" alt="Cybersecurity" width="160" height="160" />
+  <img src="assets/NumericalOptimization figure.png" alt="Numerical Optimization" width="160" height="160" />
 </p>
+
 </div>
 
 ---
@@ -125,6 +126,10 @@ $$
 <hr style="width:60%; border: 0; border-top: 1px solid rgba(138,182,214,0.5); margin: 15px auto;">
 
 <p style="opacity: 0.8;">— Where equations become poetry.</p>
+
+<p align="center">
+  <img src="assets/coffee.svg" alt="Coffee animation" width="900" height="200" />
+</p>
 
 </div>
 
