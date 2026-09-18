@@ -30,7 +30,7 @@
 
 ---
 
-### 🧬 Research Focus
+### Research Focus
 
 <div align="center" style="max-width: 820px; line-height: 1.8; color: #CFCFCF; margin: auto;">
 
@@ -42,7 +42,7 @@ My research focuses on <b>Scientific Machine Learning (SciML)</b>, <b>Continuous
 
 ---
 
-### 🧮 Mathematical Foundations
+### Mathematical Foundations
 
 <div align="center">
 
@@ -62,7 +62,7 @@ $$
 
 ---
 
-### ☕ Research Fuel
+### Research Fuel
 
 <div align="center">
   <img src="assets/coffee.svg" alt="Coffee animation" width="800" style="max-width: 100%;" />
@@ -70,7 +70,7 @@ $$
 
 ---
 
-### 📬 Connect & Collaborate
+### Connect & Collaborate
 
 <div align="center">
 
