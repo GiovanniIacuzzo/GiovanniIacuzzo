@@ -14,7 +14,7 @@
 </h1>
 
 <p style="font-size: 1.15em; color:#DCDCDC; margin-top: 6px; font-weight: 400;">
-  🔬 <b>Ph.D. Student</b> in Artificial Intelligence & Computational Engineering<br/>
+  🔬 <b>Ph.D. Student</b> in Artificial Intelligence<br/>
   🎓 M.Sc. in <b>Artificial Intelligence & Cybersecurity</b>
 </p>
 
