@@ -46,15 +46,17 @@ My research focuses on <b>Scientific Machine Learning (SciML)</b>, <b>Continuous
 
 <div align="center">
 
-<b>Continuous Variational Flow</b>
+### CONTINUOUS VARIATIONAL FLOW
+
+</div>
 
 $$
 \ddot{x}(t) + \frac{\gamma}{t} \dot{x}(t) + \nabla f(x(t)) = 0
 $$
 
-<p style="color: #B8B8B8; font-size: 0.95em; font-style: italic; margin-top: 14px;">
-“Optimization is not a destination, but a trajectory through energy landscapes.”
-</p>
+<div align="center">
+
+*“Optimization is not a destination, but a trajectory through energy landscapes.”*
 
 </div>
 
